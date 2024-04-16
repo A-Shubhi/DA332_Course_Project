@@ -13,6 +13,6 @@ The presentation is in file " Presentation.pptx"
 
 The dataset used is inthe folder crop. The data is collected from the website: data.gov.in
 
-The file Additional_plot.ipynb contains code of additional plot which I made later.
+The file Additional_plot.ipynb contains code of additional plot which I made later. They re not included in the main code file, report file or the presentation file 
 
 
